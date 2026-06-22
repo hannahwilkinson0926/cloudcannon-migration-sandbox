@@ -1,15 +1,14 @@
 +++
 title = "About Extension"
-date = 2026-06-22T00:00:00-04:00
+date = 2026-06-22T04:00:00.000Z
 draft = false
 layout = "default-content"
+
+[topper]
+_bookshop_name = "design-system/topper/default"
+heading = "About Us"
+text = "Welcome to the wonderful world of West Virginia University Extension!"
 +++
-
-# About Us
-
-Welcome to the wonderful world of West Virginia University Extension!
-
----
 
 ## Vision
 
@@ -57,3 +56,26 @@ WVU Extension connects people to information and knowledge that enables them to 
 > “My professional goals align with WVU Extension's mission and values, so this opportunity is especially exciting. I am most looking forward to becoming a resource for the people in the community and helping them achieve their goals.”
 >
 > — Jessica Hoover
+
+---
+
+## Extension in Action
+
+WVU Extension makes an impact in all 55 counties across West Virginia.
+
+## Resources
+
+- County Offices
+- Extension's Impact
+- Faculty & Staff
+- Give
+- History
+- Locations
+- Visiting Committee
+- Volunteer
+
+## Volunteer
+
+Explore ways that you, as a WVU Extension volunteer, can have fun while making a positive difference in the lives of the people we serve.
+
+Volunteering with WVU Extension is a positive experience that is open to people of all ages and backgrounds.
