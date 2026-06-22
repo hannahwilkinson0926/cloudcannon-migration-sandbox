@@ -1,7 +1,6 @@
 ---
-title: "About Extension"
+title: About Extension
 ---
-
 # About Us
 
 Welcome to the wonderful world of West Virginia University Extension!
