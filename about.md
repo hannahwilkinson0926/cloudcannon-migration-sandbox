@@ -4,20 +4,28 @@ date = 2026-06-22T04:00:00.000Z
 draft = false
 layout = "default-content"
 
-[topper]
-_bookshop_name = "design-system/topper/default"
-heading = "About Us"
-text = "Welcome to the wonderful world of West Virginia University Extension!"
-
 [[default_content_blocks]]
-_bookshop_name = "design-system/section/cta-banner"
-heading = "Vision"
-subheading = "WVU Extension envisions a West Virginia where all its people can reach their fullest potential."
+_bookshop_name = "design-system/column_sm/cards-simple-vertical"
 
-[[default_content_blocks]]
-_bookshop_name = "design-system/section/cta-banner"
-heading = "Mission"
-subheading = "Improve the lives and livelihoods of all West Virginians."
+heading = "Upcoming Events"
+
+[[default_content_blocks.cards]]
+title = "2024 WVU National Junior Firefighter Camp"
+description = "The Junior Firefighter Camp provides classroom and practical training in firefighting and emergency operations."
+link = "https://cal.wvu.edu"
+button_text = "Event Info"
+
+[[default_content_blocks.cards]]
+title = "2024 Older Member's Conference (OMC)"
+description = "Older Member's Conference is a statewide 4-H camp held annually at WVU Jackson's Mill."
+link = "https://cal.wvu.edu"
+button_text = "Event Info"
+
+[[default_content_blocks.cards]]
+title = "2024 New Horizons Camp"
+description = "New Horizons Camp is a weekend camp for 10 and 11 year old campers."
+link = "https://cal.wvu.edu"
+button_text = "Event Info"
 +++
 
 # About Us
