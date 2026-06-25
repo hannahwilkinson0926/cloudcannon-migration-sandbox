@@ -1,31 +1,19 @@
 +++
-title = "About Extension"
-date = 2026-06-22T04:00:00.000Z
-draft = false
+title = "Home"
 layout = "default-content"
 
 [[default_content_blocks]]
 _bookshop_name = "design-system/column_sm/cards-simple-vertical"
-
-heading = "Upcoming Events"
-
-[[default_content_blocks.cards]]
-title = "2024 WVU National Junior Firefighter Camp"
-description = "The Junior Firefighter Camp provides classroom and practical training in firefighting and emergency operations."
-link = "https://cal.wvu.edu"
-button_text = "Event Info"
+heading = "West Virginia Hardwood Value Chain"
+description = "WVU's AHRC supports each stage of the state's hardwood economy."
 
 [[default_content_blocks.cards]]
-title = "2024 Older Member's Conference (OMC)"
-description = "Older Member's Conference is a statewide 4-H camp held annually at WVU Jackson's Mill."
-link = "https://cal.wvu.edu"
-button_text = "Event Info"
+title = "New Hardwood Growth"
+description = "Supporting forest regeneration and long-term growth."
 
 [[default_content_blocks.cards]]
-title = "2024 New Horizons Camp"
-description = "New Horizons Camp is a weekend camp for 10 and 11 year old campers."
-link = "https://cal.wvu.edu"
-button_text = "Event Info"
+title = "Forest Stewardship and Management"
+description = "Helping landowners and partners care for forest resources."
 +++
 
 # About Us
