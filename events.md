@@ -4,7 +4,6 @@ date = 2026-06-22T04:00:00.000Z
 draft = false
 layout = "default-content"
 +++
-
 # Events
 
 <p class="lead">
@@ -56,8 +55,8 @@ We welcome visitors to WVU Jackson's Mill. Please note however, there are times 
     <p><strong>WVU Jackson's Mill</strong><br>
     160 Jackson Mill Road<br>
     Weston, WV 26452-8011</p>
-
-    <p><strong>Phone:</strong> 304-269-5100<br>
-    <strong>Email:</strong> Jacksons.Mill@mail.wvu.edu</p>
+<pre><code>&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 304-269-5100&lt;br&gt;
+&lt;strong&gt;Email:&lt;/strong&gt; Jacksons.Mill@mail.wvu.edu&lt;/p&gt;
+</code></pre>
   </div>
 </div>
