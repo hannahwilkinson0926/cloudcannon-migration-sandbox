@@ -1,3 +1,7 @@
+build:
+  engine: hugo
+  fetch_submodules: true
+
 paths:
   static: static
   uploads: static/uploads
