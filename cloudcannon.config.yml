@@ -1,27 +1,42 @@
 paths:
   static: static
   uploads: static/uploads
-timezone: America/New_York
-markdown:
-  engine: commonmark
-  options:
-    gfm: true
-    linkify: false
-    table: false
-    strikethrough: false
-    subscript: false
-    superscript: false
-    heading_ids: false
-    breaks: false
-    xhtml: false
-    attributes: false
-    typographer: false
-    treat_indentation_as_code: true
-_snippets_imports:
-  hugo:
-    exclude:
-      - hugo_instagram
+
 collections_config:
   pages:
     path: ''
     icon: wysiwyg
+
+_structures:
+  content_blocks:
+    style: modal
+    values:
+      - label: Hero
+        value:
+          _bookshop_name: hero
+          heading:
+          subheading:
+          image:
+      - label: Cards
+        value:
+          _bookshop_name: cards
+          heading:
+          subheading:
+          items:
+            - title:
+              text:
+          postscript:
+
+_inputs:
+  content_blocks:
+    type: array
+  heading:
+    type: text
+  subheading:
+    type: textarea
+  image:
+    type: image
+  items:
+    type: array
+  postscript:
+    type: text
